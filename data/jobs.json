@@ -1,0 +1,14 @@
+[
+    {
+        "company": "Google",
+        "role": "Python Intern",
+        "location": "Noida",
+        "status": "Interview Scheduled"
+    },
+    {
+        "company": "Microsoft",
+        "role": "Backend Intern",
+        "location": "Gurgaon",
+        "status": "Applied"
+    }
+]
